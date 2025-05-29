@@ -137,3 +137,9 @@ Presented ideas can span newer ideas, but those should be new items added to the
 Participants can opt to work on the continuous improvement of the Working Group as well, i.e. reusable tools, libraries that can be re-used across chapters, etc.
 
 The working group backlog can be found [here](https://github.com/orgs/apacgps/projects/9/views/1).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License allows for free use, modification, and distribution of this content, which aligns with our "learn in public" principle and collaborative approach to sharing AI practices and knowledge.
